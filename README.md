@@ -29,16 +29,12 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 Ensure you have [Node.js](https://nodejs.org/) (v14 or higher) installed on your system.
 
-1. **Clone or Extract the repository**:
-   ```bash
-   git clone https://github.com/Ahmad-Alsawalhi/Spiral-Sounds.git
-   cd spiral-sounds
 
-2. **Install Dependencies:**:
-    npm install
+1. **Install Dependencies:**:
+    open the terminal and run: npm install
 
-3. **Start the Application:**:
+2. **Start the Application:**:
     npm start
 
-4. **Access the Web App:**:
-    Open your browser and navigate to http://localhost:8000 (or your configured port).
+3. **Access the Web App:**:
+    Open your browser and navigate to http://localhost:8000 (or your configured port). Or visit it through the terminal itself
